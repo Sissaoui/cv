@@ -1,0 +1,120 @@
+.page{
+	width : 1500px;
+	margin: auto;
+	font-size : 16px;
+	font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+.coordonnées{
+	height : 250px;
+}
+ 
+.info{
+	float : left;
+}
+
+.photo{
+	float : right;
+}
+
+.Langues{
+	height : 250px;
+}
+ 
+.Formation{
+	height : 300px;
+}
+
+.Experience-professionnelle{
+	height : 300px;
+}
+
+.Competences-informatiques{
+	height : 250px;
+}
+ 
+.sec-gauche{
+	float : left;
+}
+
+.sec-droite{
+	float : right;
+}
+
+
+
+
+
+.coordonnées{
+	margin-bottom : 20px;
+}
+
+.Langues{
+	margin-bottom : 20px;
+}
+
+.Formation{
+	margin-bottom : 20px;
+}
+s
+.Experience-professionnelle{
+	margin-bottom : 20px;
+}
+
+.Competences-informatiques{
+	margin-bottom : 20px;
+}
+ 
+.sec-droite{
+	float : left;
+}
+
+.sec-gauche{
+	margin-left : 0px;
+}
+.sec-droite{
+	margin-left : 200px;
+}
+
+strong{
+	font-size: 26px;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+h2{
+	font-size : 28px;
+	color : #bb32bb;
+	text-transform: uppercase;
+	border-bottom : 3px solid #bb318d;
+}
+
+.sec_gauche{
+	float : left;
+	font-weight : bold;
+	font-size : 20px;
+}
+
+.sec-droite{
+	margin-left :150px;
+}
+
+.titre{
+	font-weight : bold;
+	font-size : 20px;
+}
+	
+	
+	
+
+
+ 
+
+
+
+
+
+
